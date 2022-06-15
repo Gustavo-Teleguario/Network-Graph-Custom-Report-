@@ -2,10 +2,11 @@
 This is a VUE-JS Demo version Network Graph Custom Report for LeanIX EAM Tool. In This Demo demonstrates a Visualization of the relationships between Applications containing a Provider and Consumer Interface.
 
 # Project setup
-This project was bootstrapped with leanix-reporting-cli
-1.npm install -g @leanix/reporting-cli
-2.npm install in project directory
-3.create a lxr.json file in project directory
+This project was bootstrapped with leanix-reporting-cli.
+
+1. `npm install -g @leanix/reporting-cli`
+2. `npm install in project directory`
+3. create a `lxr.json` file in project directory
 
 # Available scripts
 In the project directory, run only
