@@ -1,0 +1,27 @@
+{
+  "name": "leanix-custom-report",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build --mode development",
+    "upload": "vite build"
+  },
+  "dependencies": {
+    "@leanix/reporting": "^0.4.94",
+    "v-network-graph": "^0.5.7",
+    "vue": "^3.2.26"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.0.1",
+    "@vue/compiler-sfc": "^3.2.26",
+    "vite": "^2.7.10",
+    "vite-plugin-lxr": "^0.0.3"
+  },
+  "author": "MAT",
+  "description": "This is a network-Graph to visualizing Application relation to Interfaces (Provider and Consumer Interface)",
+  "leanixReport": {
+  "id": "net.leanix.report.network.graph",
+  "title": "Demo: Network Graph",
+  "defaultConfig": {}
+}
+}
