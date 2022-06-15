@@ -5,7 +5,7 @@ This is a VUE-JS Demo version Network Graph Custom Report for LeanIX EAM Tool. I
 This project was bootstrapped with leanix-reporting-cli.
 
 1. `npm install -g @leanix/reporting-cli`
-2. `npm install in project directory`
+2. `npm install` in project directory
 3. create a `lxr.json` file in project directory
 
 # Available scripts
