@@ -20,6 +20,8 @@ Builds the report and outputs the build result into `dist` Folder.
 
 `npm run upload`
 Uploads the report to the workspace cofigured in `lxr.json` File. 
+# official documentation
+[Linktext](https://docs-eam.leanix.net/reference/build-a-custom-report)
 
 
 
